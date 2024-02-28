@@ -1,0 +1,2 @@
+# EMUPPUTEST0.c
+1.0
